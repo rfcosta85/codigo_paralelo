@@ -1,0 +1,91 @@
+Job 0:
+  Op 0 (M3): start=0, end=14
+  Op 1 (M5): start=14, end=28
+  Op 2 (M2): start=28, end=46
+  Op 3 (M1): start=46, end=64
+  Op 4 (M0): start=64, end=72
+  Op 5 (M4): start=72, end=88
+  Op 6 (M6): start=88, end=94
+  Op 7 (M7): start=94, end=111
+Job 1:
+  Op 0 (M0): start=72, end=82
+  Op 1 (M7): start=111, end=120
+  Op 2 (M3): start=120, end=129
+  Op 3 (M2): start=129, end=132
+  Op 4 (M4): start=132, end=146
+  Op 5 (M5): start=146, end=156
+  Op 6 (M6): start=156, end=164
+  Op 7 (M1): start=164, end=179
+Job 2:
+  Op 0 (M0): start=82, end=88
+  Op 1 (M1): start=179, end=193
+  Op 2 (M7): start=193, end=201
+  Op 3 (M4): start=201, end=214
+  Op 4 (M3): start=214, end=218
+  Op 5 (M6): start=218, end=235
+  Op 6 (M2): start=235, end=254
+  Op 7 (M5): start=254, end=262
+Job 3:
+  Op 0 (M0): start=88, end=104
+  Op 1 (M5): start=262, end=269
+  Op 2 (M4): start=269, end=281
+  Op 3 (M7): start=281, end=294
+  Op 4 (M6): start=294, end=297
+  Op 5 (M2): start=297, end=301
+  Op 6 (M1): start=301, end=315
+  Op 7 (M3): start=315, end=332
+Job 4:
+  Op 0 (M7): start=294, end=301
+  Op 1 (M0): start=301, end=305
+  Op 2 (M1): start=315, end=322
+  Op 3 (M4): start=322, end=332
+  Op 4 (M5): start=332, end=352
+  Op 5 (M3): start=352, end=371
+  Op 6 (M6): start=371, end=384
+  Op 7 (M2): start=384, end=394
+Job 5:
+  Op 0 (M0): start=305, end=324
+  Op 1 (M4): start=332, end=349
+  Op 2 (M5): start=352, end=366
+  Op 3 (M6): start=384, end=387
+  Op 4 (M2): start=394, end=414
+  Op 5 (M7): start=414, end=418
+  Op 6 (M3): start=418, end=434
+  Op 7 (M1): start=434, end=443
+Job 6:
+  Op 0 (M4): start=349, end=363
+  Op 1 (M0): start=363, end=377
+  Op 2 (M5): start=377, end=396
+  Op 3 (M7): start=418, end=435
+  Op 4 (M6): start=435, end=443
+  Op 5 (M1): start=443, end=462
+  Op 6 (M2): start=462, end=476
+  Op 7 (M3): start=476, end=479
+Job 7:
+  Op 0 (M5): start=396, end=415
+  Op 1 (M3): start=479, end=486
+  Op 2 (M6): start=486, end=504
+  Op 3 (M0): start=504, end=524
+  Op 4 (M7): start=524, end=540
+  Op 5 (M2): start=540, end=541
+  Op 6 (M4): start=541, end=553
+  Op 7 (M1): start=553, end=563
+Job 8:
+  Op 0 (M5): start=415, end=420
+  Op 1 (M7): start=540, end=547
+  Op 2 (M3): start=547, end=548
+  Op 3 (M2): start=548, end=552
+  Op 4 (M0): start=552, end=568
+  Op 5 (M1): start=568, end=588
+  Op 6 (M6): start=588, end=603
+  Op 7 (M4): start=603, end=622
+Job 9:
+  Op 0 (M2): start=552, end=566
+  Op 1 (M3): start=566, end=575
+  Op 2 (M0): start=575, end=581
+  Op 3 (M6): start=603, end=609
+  Op 4 (M4): start=622, end=631
+  Op 5 (M1): start=631, end=643
+  Op 6 (M7): start=643, end=653
+  Op 7 (M5): start=653, end=668
+Makespan: 668

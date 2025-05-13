@@ -1,0 +1,10 @@
+Job 0:
+  Op 0 (M0): start=0, end=3
+  Op 1 (M1): start=3, end=5
+Job 1:
+  Op 0 (M1): start=5, end=9
+  Op 1 (M0): start=9, end=10
+Job 2:
+  Op 0 (M0): start=10, end=12
+  Op 1 (M1): start=12, end=13
+Makespan: 13

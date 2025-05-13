@@ -1,0 +1,3 @@
+C:/Users/rfcos/CLionProjects/codigo-paralelo/cmake-build-debug/CMakeFiles/codigo_paralelo.dir
+C:/Users/rfcos/CLionProjects/codigo-paralelo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rfcos/CLionProjects/codigo-paralelo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
