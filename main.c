@@ -6,7 +6,7 @@
 #include <limits.h>
 #include <errno.h>
 
-#define MAX_JOBS 100
+#define MAX_JOBS 1000000
 #define MAX_OPS 100
 #define MAX_MACHINES 64
 
@@ -59,6 +59,9 @@ int max(int a, int b) {
 // (2) Comunicação: threads sincronizam via mutex por máquina
 void *schedule_jobs(void *args) {
     ThreadArgs *targs = (ThreadArgs *) args;
+
+        // Usado para validar se as quantidades de threads que informei como argumento, realmente são utilizadas
+    printf("Thread %d executando jobs de %d ate %d\n", targs->tid, targs->start, targs->end - 1);
 
     for (int j = targs->start; j < targs->end; j++) {
         int current_time = 0;

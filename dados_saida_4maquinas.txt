@@ -9,43 +9,43 @@ Job 1:
   Op 2 (M1): start=60, end=76
   Op 3 (M0): start=76, end=81
 Job 2:
-  Op 0 (M0): start=81, end=83
-  Op 1 (M3): start=83, end=100
-  Op 2 (M2): start=100, end=114
-  Op 3 (M1): start=114, end=127
+  Op 0 (M0): start=104, end=106
+  Op 1 (M3): start=106, end=123
+  Op 2 (M2): start=123, end=137
+  Op 3 (M1): start=137, end=150
 Job 3:
-  Op 0 (M2): start=114, end=128
-  Op 1 (M3): start=128, end=132
-  Op 2 (M1): start=132, end=151
-  Op 3 (M0): start=151, end=158
+  Op 0 (M2): start=60, end=74
+  Op 1 (M3): start=74, end=78
+  Op 2 (M1): start=78, end=97
+  Op 3 (M0): start=97, end=104
 Job 4:
-  Op 0 (M1): start=151, end=153
-  Op 1 (M0): start=158, end=165
-  Op 2 (M2): start=165, end=166
-  Op 3 (M3): start=166, end=178
+  Op 0 (M1): start=150, end=152
+  Op 1 (M0): start=152, end=159
+  Op 2 (M2): start=159, end=160
+  Op 3 (M3): start=160, end=172
 Job 5:
-  Op 0 (M1): start=153, end=157
-  Op 1 (M0): start=165, end=174
-  Op 2 (M2): start=174, end=178
-  Op 3 (M3): start=178, end=184
+  Op 0 (M1): start=152, end=156
+  Op 1 (M0): start=159, end=168
+  Op 2 (M2): start=168, end=172
+  Op 3 (M3): start=172, end=178
 Job 6:
-  Op 0 (M1): start=157, end=169
-  Op 1 (M2): start=178, end=194
-  Op 2 (M0): start=194, end=203
-  Op 3 (M3): start=203, end=212
+  Op 0 (M1): start=224, end=236
+  Op 1 (M2): start=265, end=281
+  Op 2 (M0): start=281, end=290
+  Op 3 (M3): start=290, end=299
 Job 7:
-  Op 0 (M3): start=212, end=217
-  Op 1 (M2): start=217, end=237
-  Op 2 (M1): start=237, end=256
-  Op 3 (M0): start=256, end=270
+  Op 0 (M3): start=178, end=183
+  Op 1 (M2): start=183, end=203
+  Op 2 (M1): start=203, end=222
+  Op 3 (M0): start=222, end=236
 Job 8:
-  Op 0 (M1): start=256, end=258
-  Op 1 (M0): start=270, end=290
-  Op 2 (M2): start=290, end=299
-  Op 3 (M3): start=299, end=318
+  Op 0 (M1): start=222, end=224
+  Op 1 (M0): start=236, end=256
+  Op 2 (M2): start=256, end=265
+  Op 3 (M3): start=265, end=284
 Job 9:
   Op 0 (M0): start=290, end=299
   Op 1 (M1): start=299, end=315
-  Op 2 (M3): start=318, end=337
-  Op 3 (M2): start=337, end=347
-Makespan: 347
+  Op 2 (M3): start=315, end=334
+  Op 3 (M2): start=334, end=344
+Makespan: 344
